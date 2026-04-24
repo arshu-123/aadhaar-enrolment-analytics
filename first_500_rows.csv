@@ -1,0 +1,501 @@
+date,state,district,pincode,age_0_5,age_5_17,age_18_greater
+02-03-2025,Meghalaya,East Khasi Hills,793121,11,61,37
+09-03-2025,Karnataka,Bengaluru Urban,560043,14,33,39
+09-03-2025,Uttar Pradesh,Kanpur Nagar,208001,29,82,12
+09-03-2025,Uttar Pradesh,Aligarh,202133,62,29,15
+09-03-2025,Karnataka,Bengaluru Urban,560016,14,16,21
+09-03-2025,Bihar,Sitamarhi,843331,20,49,12
+09-03-2025,Bihar,Sitamarhi,843330,23,24,42
+09-03-2025,Uttar Pradesh,Bahraich,271865,26,60,14
+09-03-2025,Uttar Pradesh,Firozabad,283204,28,26,10
+09-03-2025,Bihar,Purbi Champaran,845418,30,48,10
+09-03-2025,Uttar Pradesh,Maharajganj,273164,31,70,13
+09-03-2025,Bihar,Sitamarhi,843317,35,94,16
+09-03-2025,Maharashtra,Aurangabad,431001,42,46,12
+09-03-2025,Bihar,Sitamarhi,843324,49,186,34
+09-03-2025,Uttar Pradesh,Ghaziabad,201102,50,113,11
+09-03-2025,Haryana,Faridabad,121004,80,60,10
+09-03-2025,Karnataka,Bengaluru Urban,560068,14,17,35
+09-03-2025,Bihar,Madhubani,847108,18,120,22
+09-03-2025,Karnataka,Bengaluru Urban,560032,21,14,10
+09-03-2025,Rajasthan,Sikar,332001,41,36,17
+09-03-2025,Bihar,Bhagalpur,812005,13,40,18
+09-03-2025,Punjab,Amritsar,143001,14,15,20
+09-03-2025,Haryana,Gurugram,122001,18,19,13
+09-03-2025,Uttar Pradesh,Gautam Buddha Nagar,201301,25,249,16
+09-03-2025,Delhi,West Delhi,110018,29,11,15
+09-03-2025,Madhya Pradesh,Bhind,477116,37,18,11
+09-03-2025,Madhya Pradesh,Gwalior,475110,42,14,14
+09-03-2025,Madhya Pradesh,Katni,483501,53,42,11
+09-03-2025,Delhi,West Delhi,110059,93,42,42
+09-03-2025,Bihar,Purbi Champaran,845304,18,72,12
+09-03-2025,West Bengal,Coochbehar,736135,19,12,19
+09-03-2025,Uttar Pradesh,Lucknow,226003,23,102,17
+09-03-2025,West Bengal,Dinajpur Uttar,733129,26,18,27
+15-03-2025,Assam,Marigaon,782104,10,11,46
+15-03-2025,Assam,Kokrajhar,783350,10,16,18
+15-03-2025,Uttar Pradesh,Agra,282005,10,66,17
+15-03-2025,Uttarakhand,Haridwar,247667,17,15,28
+15-03-2025,Uttar Pradesh,Ghaziabad,201001,33,125,16
+15-03-2025,Uttar Pradesh,Ghaziabad,201206,14,30,13
+15-03-2025,Assam,Nagaon,782124,19,15,22
+15-03-2025,Delhi,West Delhi,110059,24,34,18
+15-03-2025,Uttar Pradesh,Gautam Buddha Nagar,201301,43,132,24
+15-03-2025,Uttar Pradesh,Maharajganj,273164,12,55,12
+15-03-2025,Maharashtra,Parbhani,431401,17,14,37
+15-03-2025,Uttar Pradesh,Ghaziabad,201102,19,146,30
+15-03-2025,Assam,Marigaon,782105,26,16,140
+15-03-2025,Meghalaya,West Khasi Hills,793119,34,10,148
+15-03-2025,Bihar,Purbi Champaran,845303,12,121,13
+15-03-2025,Assam,Marigaon,782127,12,16,20
+15-03-2025,Uttar Pradesh,Gautam Buddha Nagar,201009,20,37,18
+15-03-2025,Bihar,Sitamarhi,843324,22,89,44
+15-03-2025,Assam,Kokrajhar,783360,25,23,10
+15-03-2025,Delhi,North West Delhi,110086,35,15,10
+15-03-2025,Uttar Pradesh,Agra,282001,38,123,21
+15-03-2025,Meghalaya,West Jaintia Hills,793150,92,17,30
+15-03-2025,Uttar Pradesh,Agra,282010,10,49,19
+15-03-2025,Uttar Pradesh,Ghaziabad,201002,13,57,19
+15-03-2025,Bihar,Madhubani,847421,15,54,15
+15-03-2025,Uttar Pradesh,Unnao,209801,17,95,18
+15-03-2025,Bihar,Sitamarhi,843331,20,28,15
+15-03-2025,Uttar Pradesh,Saharanpur,247001,91,152,10
+20-03-2025,Assam,Dibrugarh,786602,10,12,14
+20-03-2025,Assam,Udalguri,784509,10,46,34
+20-03-2025,Assam,Chirang,783390,12,29,15
+20-03-2025,Assam,Kamrup,781354,13,20,13
+20-03-2025,Assam,Dhubri,783331,15,51,12
+20-03-2025,Uttar Pradesh,Jaunpur,222001,19,103,29
+20-03-2025,Maharashtra,Thane,421503,19,13,15
+20-03-2025,Karnataka,Bengaluru Urban,560037,20,16,17
+20-03-2025,Assam,Dhemaji,787057,20,46,19
+20-03-2025,Uttar Pradesh,Agra,283125,25,29,12
+20-03-2025,Assam,Kokrajhar,783360,32,75,29
+20-03-2025,Gujarat,Banas Kantha,385545,37,11,15
+20-03-2025,Bihar,Sitamarhi,843324,41,55,30
+20-03-2025,Karnataka,Bengaluru Urban,560068,56,20,16
+20-03-2025,Uttar Pradesh,Firozabad,283203,65,51,11
+20-03-2025,Madhya Pradesh,Gwalior,474001,73,25,18
+20-03-2025,Uttar Pradesh,Agra,282001,96,125,11
+20-03-2025,Maharashtra,Aurangabad,431001,134,38,18
+20-03-2025,Assam,Dhubri,783348,11,115,37
+20-03-2025,Assam,Tinsukia,786156,12,32,21
+20-03-2025,Andhra Pradesh,Spsr Nellore,524311,15,19,17
+20-03-2025,Karnataka,Bengaluru Urban,560035,16,10,13
+20-03-2025,Uttar Pradesh,Unnao,209821,17,41,15
+20-03-2025,Assam,Marigaon,782104,20,58,10
+20-03-2025,Assam,Barpeta,783101,24,34,10
+20-03-2025,Assam,Kokrajhar,783350,24,55,23
+20-03-2025,Karnataka,Bengaluru Urban,560036,28,12,13
+20-03-2025,Assam,Dhubri,783334,31,37,25
+20-03-2025,Gujarat,Banas Kantha,385310,78,32,13
+20-03-2025,Bihar,Sitamarhi,843330,10,12,19
+20-03-2025,Assam,Sonitpur,784110,10,28,43
+20-03-2025,Assam,Baksa,781366,11,14,13
+20-03-2025,Assam,Tinsukia,786152,18,25,11
+20-03-2025,Assam,Tinsukia,786151,19,24,19
+20-03-2025,Uttar Pradesh,Bahraich,271855,20,62,13
+20-03-2025,Gujarat,Banas Kantha,385330,47,11,25
+20-03-2025,Karnataka,Bengaluru Urban,560043,49,16,28
+20-03-2025,Punjab,Ludhiana,141007,104,13,14
+20-03-2025,Gujarat,Patan,384265,118,14,11
+20-03-2025,Assam,Tinsukia,786171,12,37,30
+20-03-2025,Uttar Pradesh,Bahraich,271865,12,47,21
+20-03-2025,Tamil Nadu,Kanchipuram,600069,12,12,10
+20-03-2025,Bihar,Patna,800001,12,52,16
+20-03-2025,Assam,Lakhimpur,787031,25,34,42
+20-03-2025,Assam,Bongaigaon,783384,25,33,31
+20-03-2025,Assam,Dhubri,783339,32,26,24
+20-03-2025,Gujarat,Vadodara,390019,36,43,10
+20-03-2025,Uttarakhand,Nainital,263139,46,18,11
+20-03-2025,Meghalaya,West Jaintia Hills,793150,55,10,95
+20-03-2025,Gujarat,Banas Kantha,385001,86,15,10
+20-03-2025,Uttar Pradesh,Gautam Buddha Nagar,201301,87,218,14
+20-03-2025,Uttar Pradesh,Aligarh,202001,104,241,16
+20-03-2025,Uttarakhand,Dehradun,248001,123,43,10
+20-03-2025,Karnataka,Bengaluru Urban,560066,19,13,11
+20-03-2025,Meghalaya,West Khasi Hills,793119,20,19,202
+20-03-2025,Uttar Pradesh,Agra,283111,21,16,11
+20-03-2025,Assam,Tinsukia,786174,23,52,20
+20-03-2025,Assam,Hojai,782446,27,42,20
+20-03-2025,Karnataka,Bengaluru Urban,560100,28,13,11
+20-03-2025,Andhra Pradesh,Spsr Nellore,524002,28,25,12
+20-03-2025,Karnataka,Bengaluru Urban,560077,30,12,17
+20-03-2025,Assam,Marigaon,782105,49,83,29
+23-03-2025,Uttar Pradesh,Jaunpur,222001,29,68,11
+23-03-2025,Meghalaya,West Khasi Hills,793119,43,46,14
+23-03-2025,Madhya Pradesh,Gwalior,474001,10,21,16
+23-03-2025,Meghalaya,East Khasi Hills,793015,11,11,115
+23-03-2025,Uttar Pradesh,Bahraich,271865,11,72,13
+23-03-2025,Bihar,Sitamarhi,843324,34,41,10
+26-03-2025,Meghalaya,West Jaintia Hills,793150,168,26,17
+27-03-2025,Gujarat,Dohad,389180,16,18,27
+27-03-2025,Madhya Pradesh,Bhind,477116,17,15,11
+27-03-2025,Uttar Pradesh,Kanpur Nagar,208001,18,56,11
+27-03-2025,Gujarat,Banas Kantha,385330,19,17,26
+27-03-2025,Uttar Pradesh,Agra,283201,21,15,10
+27-03-2025,Gujarat,Patan,384265,23,12,12
+27-03-2025,Gujarat,Morbi,363641,36,12,23
+27-03-2025,Chhattisgarh,Raipur,492001,49,15,36
+27-03-2025,Uttar Pradesh,Maharajganj,273164,11,56,22
+27-03-2025,Uttar Pradesh,Gorakhpur,273001,13,36,11
+27-03-2025,Uttar Pradesh,Agra,282006,19,31,16
+27-03-2025,Uttar Pradesh,Bulandshahr,203205,19,32,10
+27-03-2025,Uttar Pradesh,Mathura,281204,24,21,26
+27-03-2025,Bihar,Pashchim Champaran,845307,25,88,13
+27-03-2025,Gujarat,Banas Kantha,385001,25,21,22
+27-03-2025,Bihar,Sitamarhi,843324,41,58,21
+27-03-2025,Chhattisgarh,Bijapur,494444,43,15,42
+27-03-2025,Jharkhand,Deoghar,815353,12,25,18
+27-03-2025,Bihar,Madhubani,847108,13,61,12
+27-03-2025,Bihar,Sitamarhi,843330,16,22,45
+27-03-2025,Gujarat,Dohad,389170,16,19,14
+27-03-2025,Maharashtra,Aurangabad,431001,20,19,16
+27-03-2025,Chhattisgarh,Bijapur,494447,23,16,21
+27-03-2025,Bihar,Sitamarhi,843317,25,38,15
+27-03-2025,Gujarat,Banas Kantha,385535,65,62,15
+27-03-2025,Uttar Pradesh,Mathura,281201,15,19,16
+27-03-2025,Uttar Pradesh,Jaunpur,222001,22,42,11
+27-03-2025,Bihar,Muzaffarpur,842002,24,40,10
+27-03-2025,Gujarat,Banas Kantha,385120,24,33,12
+27-03-2025,Gujarat,Banas Kantha,385320,27,21,37
+27-03-2025,Uttar Pradesh,Banda,210001,31,24,11
+27-03-2025,Uttar Pradesh,Agra,282001,40,40,15
+27-03-2025,Madhya Pradesh,Gwalior,475110,54,26,14
+27-03-2025,Gujarat,Kachchh,370001,33,13,10
+27-03-2025,Uttar Pradesh,Aligarh,202001,60,83,13
+28-03-2025,Meghalaya,East Khasi Hills,793121,22,20,12
+28-03-2025,Meghalaya,West Khasi Hills,793119,21,38,78
+29-03-2025,Meghalaya,Ri Bhoi,793105,30,11,26
+01-04-2025,Assam,Darrang,784116,119,67,64
+01-04-2025,Assam,Kamrup,781102,126,55,13
+01-04-2025,Punjab,Ludhiana,141007,374,110,25
+01-04-2025,Madhya Pradesh,Ashok Nagar,473335,125,29,22
+01-04-2025,Uttar Pradesh,Maharajganj,273305,141,176,13
+01-04-2025,West Bengal,Darjeeling,734010,81,49,17
+01-04-2025,Assam,North Cachar Hills,788831,19,45,13
+01-04-2025,Meghalaya,East Khasi Hills,793112,29,83,18
+01-04-2025,Jharkhand,Ranchi,834001,187,174,21
+01-04-2025,Gujarat,Surat,394107,169,69,32
+01-04-2025,Maharashtra,Nanded,431806,59,11,22
+01-04-2025,Karnataka,Bengaluru,560036,204,34,29
+01-04-2025,Madhya Pradesh,Ashok Nagar,473443,141,57,15
+01-04-2025,Assam,Jorhat,785112,25,12,43
+01-04-2025,Gujarat,Gir Somnath,362265,127,20,17
+01-04-2025,Maharashtra,Thane,421004,100,30,11
+01-04-2025,Madhya Pradesh,Bhind,477116,142,60,32
+01-04-2025,Assam,Sonitpur,784507,25,19,11
+01-04-2025,Uttar Pradesh,Banda,210001,250,177,30
+01-04-2025,Karnataka,Bengaluru,560032,311,46,25
+01-04-2025,Uttar Pradesh,Lucknow,226005,83,92,23
+01-04-2025,Assam,Kamrup Metro,781025,33,71,21
+01-04-2025,Assam,Goalpara,783120,34,43,38
+01-04-2025,Bihar,Sitamarhi,843313,98,76,13
+01-04-2025,Gujarat,Bhavnagar,364002,165,14,11
+01-04-2025,Meghalaya,East Khasi Hills,793008,16,195,85
+01-04-2025,Assam,Golaghat,785613,24,36,30
+01-04-2025,Assam,Hojai,782435,205,60,29
+01-04-2025,Bihar,Sitamarhi,843315,102,125,18
+01-04-2025,Bihar,Muzaffarpur,844127,208,125,12
+01-04-2025,Maharashtra,Nagpur,440034,192,13,20
+01-04-2025,West Bengal,Cooch Behar,736135,243,127,20
+01-04-2025,Gujarat,Patan,384240,62,12,20
+01-04-2025,Maharashtra,Jalgaon,425001,360,53,10
+01-04-2025,Gujarat,Vadodara,390022,93,20,19
+01-04-2025,Maharashtra,Hingoli,431512,243,22,33
+01-04-2025,Maharashtra,Ahmadnagar,413201,71,15,10
+01-04-2025,Gujarat,Gandhinagar,382721,174,32,66
+01-04-2025,Madhya Pradesh,Bhind,477001,391,92,27
+01-04-2025,Meghalaya,East Khasi Hills,793108,57,188,56
+01-04-2025,West Bengal,North 24 Parganas,700159,35,28,14
+01-04-2025,Uttar Pradesh,Kanpur Nagar,208004,73,44,16
+01-04-2025,Delhi,North West Delhi,110040,221,134,28
+01-04-2025,Meghalaya,East Khasi Hills,793016,13,56,21
+01-04-2025,Bihar,Munger,811213,191,278,22
+01-04-2025,Assam,Nagaon,782120,123,75,10
+01-04-2025,Karnataka,Bengaluru,560047,150,11,12
+01-04-2025,Nagaland,Kohima,797001,134,228,23
+01-04-2025,Meghalaya,East Khasi Hills,793015,190,706,242
+01-04-2025,Karnataka,Bengaluru,560077,218,38,41
+01-04-2025,Assam,Udalguri,784507,29,53,150
+01-04-2025,Rajasthan,Jalor,343049,54,27,14
+01-04-2025,Uttar Pradesh,Bahraich,271824,68,58,11
+01-04-2025,Assam,Baksa,781372,39,38,19
+01-04-2025,Gujarat,Kheda,387001,112,18,26
+01-04-2025,Gujarat,Vadodara,390001,93,22,16
+01-04-2025,Assam,Nalbari,781334,29,23,24
+01-04-2025,Punjab,Ludhiana,141012,52,22,10
+01-04-2025,Gujarat,Kheda,387430,19,10,19
+01-04-2025,Assam,Dibrugarh,786614,15,10,11
+01-04-2025,Assam,Kokrajhar,783350,65,64,15
+01-04-2025,Gujarat,Vadodara,390020,35,17,12
+01-04-2025,Maharashtra,Palghar,401209,174,90,16
+01-04-2025,Bihar,Bhagalpur,853204,349,238,10
+01-04-2025,Gujarat,Surat,395004,464,167,38
+01-04-2025,Rajasthan,Jodhpur,342301,210,101,12
+01-04-2025,Delhi,Central Delhi,110003,80,41,12
+01-04-2025,Bihar,Gaya,824231,85,200,16
+01-04-2025,Meghalaya,East Khasi Hills,793121,301,972,290
+01-04-2025,Assam,Lakhimpur,787031,202,52,34
+01-04-2025,Gujarat,Sabarkantha,383422,43,49,23
+01-04-2025,Nagaland,Dimapur,797112,249,454,80
+01-04-2025,Assam,Cachar,788005,65,44,17
+01-04-2025,Uttar Pradesh,Banda,210121,208,163,13
+01-04-2025,Assam,Lakhimpur,787055,123,58,20
+01-04-2025,Gujarat,Banaskantha,385555,38,18,25
+01-04-2025,Bihar,Patna,801505,60,212,10
+01-04-2025,Uttar Pradesh,Kheri,261505,375,408,11
+01-04-2025,Assam,Kamrup Metro,781011,14,27,26
+01-04-2025,Karnataka,Bengaluru,560029,102,23,17
+01-04-2025,Gujarat,Rajkot,360022,63,11,21
+01-04-2025,Maharashtra,Thane,401107,292,182,10
+01-04-2025,Bihar,Muzaffarpur,843103,388,182,12
+01-04-2025,Gujarat,Rajkot,360370,140,21,13
+01-04-2025,Maharashtra,Satara,415523,192,26,18
+01-04-2025,Assam,Hojai,782442,116,34,15
+01-04-2025,Madhya Pradesh,Betul,460001,193,20,10
+01-04-2025,Assam,West Karbi Anglong,782486,44,219,21
+01-04-2025,Assam,Chirang,783394,20,32,32
+01-04-2025,Delhi,South Delhi,110017,151,35,12
+01-04-2025,Gujarat,Banaskantha,385530,24,33,22
+01-04-2025,Maharashtra,Raigad,410206,242,72,21
+01-04-2025,Assam,Dibrugarh,786191,17,15,14
+01-04-2025,Assam,Dibrugarh,786610,14,15,24
+01-04-2025,West Bengal,Uttar Dinajpur,733134,484,109,27
+01-04-2025,Madhya Pradesh,Guna,473101,110,32,11
+01-04-2025,Bihar,Kaimur (Bhabua),821106,146,199,12
+01-04-2025,Nagaland,Kohima,797005,51,80,12
+01-04-2025,Karnataka,Bengaluru,560103,67,24,37
+01-04-2025,Assam,Udalguri,784525,84,21,17
+01-04-2025,Gujarat,Gir Somnath,362275,103,19,27
+01-04-2025,Rajasthan,Dholpur,328022,222,95,10
+01-04-2025,Manipur,Churachandpur,795128,130,476,26
+01-04-2025,Bihar,West Champaran,845453,271,300,20
+01-04-2025,Gujarat,Morbi,363641,298,64,40
+01-04-2025,Maharashtra,Hingoli,431705,186,16,45
+01-04-2025,Uttar Pradesh,Kanpur Nagar,208003,41,27,10
+01-04-2025,Rajasthan,Jalor,343040,98,88,11
+01-04-2025,Uttar Pradesh,Kanpur Nagar,208007,72,96,23
+01-04-2025,Assam,Kamrup Metro,781009,19,33,20
+01-04-2025,Assam,Hojai,782439,51,45,19
+01-04-2025,Gujarat,Bharuch,393001,138,50,23
+01-04-2025,Uttar Pradesh,Jaunpur,223104,111,133,10
+01-04-2025,West Bengal,Jhargram,721517,40,10,12
+01-04-2025,Madhya Pradesh,Khargone,451001,166,37,12
+01-04-2025,Delhi,North West Delhi,110085,387,114,13
+01-04-2025,Gujarat,Chhotaudepur,391152,31,11,12
+01-04-2025,Gujarat,Vadodara,390009,67,15,11
+01-04-2025,Karnataka,Bengaluru,560066,162,38,55
+01-04-2025,Assam,Dhubri,783330,205,65,13
+01-04-2025,Gujarat,Bhavnagar,364001,402,22,14
+01-04-2025,Maharashtra,Mumbai Suburban,400058,82,13,10
+01-04-2025,Assam,Hailakandi,788155,70,43,18
+01-04-2025,Gujarat,Panchmahals,389341,63,17,15
+01-04-2025,Assam,West Karbi Anglong,782485,39,94,13
+01-04-2025,Assam,South Salmara Mankachar,783135,102,43,12
+01-04-2025,Uttar Pradesh,Budaun,243601,480,267,13
+01-04-2025,Jharkhand,Ranchi,834002,99,130,11
+01-04-2025,Uttar Pradesh,Bahraich,271855,417,377,45
+01-04-2025,Assam,Golaghat,785601,165,146,23
+01-04-2025,Uttar Pradesh,Kanpur Dehat,209306,141,146,31
+01-04-2025,Maharashtra,Nanded,431604,149,42,12
+01-04-2025,Uttar Pradesh,Jaunpur,222001,373,360,28
+01-04-2025,Gujarat,Surat,395003,138,33,18
+01-04-2025,Bihar,Patna,800002,39,199,19
+01-04-2025,West Bengal,Darjeeling,734014,82,34,16
+01-04-2025,Gujarat,Porbandar,360575,205,28,24
+01-04-2025,Meghalaya,West Garo Hills,794105,145,176,62
+01-04-2025,Gujarat,Kachchh,370001,442,73,20
+01-04-2025,Punjab,Kapurthala,144401,138,37,51
+01-04-2025,Assam,Kamrup Metro,781034,11,41,15
+01-04-2025,Gujarat,Morbi,363621,250,41,89
+01-04-2025,Maharashtra,Thane,400607,84,22,22
+01-04-2025,Assam,Marigaon,782411,186,171,22
+01-04-2025,Meghalaya,South Garo Hills,794005,50,231,118
+01-04-2025,Rajasthan,Nagaur,341025,118,54,10
+01-04-2025,Assam,Bongaigaon,783380,74,29,27
+01-04-2025,Karnataka,Bengaluru,560076,193,50,36
+01-04-2025,Assam,Kamrup Metro,782402,45,21,15
+01-04-2025,Assam,Chirang,783375,52,88,94
+01-04-2025,Rajasthan,Sikar,332709,141,29,10
+01-04-2025,Karnataka,Mysuru,570019,456,19,10
+01-04-2025,Karnataka,Bengaluru,560049,183,25,15
+01-04-2025,Gujarat,Mahesana,384001,120,15,25
+01-04-2025,Rajasthan,Churu,331403,316,141,12
+01-04-2025,Karnataka,Bengaluru,560061,194,23,16
+01-04-2025,Madhya Pradesh,Guna,473001,523,88,20
+01-04-2025,Assam,Golaghat,785611,52,56,14
+01-04-2025,Assam,Kamrup,781380,86,17,14
+01-04-2025,Rajasthan,Jalor,343001,189,63,11
+01-04-2025,Assam,Nalbari,781337,15,11,23
+01-04-2025,Telangana,Hyderabad,500059,160,22,10
+01-04-2025,Tamil Nadu,Kancheepuram,600100,148,56,10
+01-04-2025,Uttar Pradesh,Varanasi,221011,52,81,30
+01-04-2025,Jharkhand,Lohardaga,835302,187,104,17
+01-04-2025,Assam,Marigaon,782127,122,76,11
+01-04-2025,Assam,Udalguri,784514,68,38,12
+01-04-2025,Meghalaya,West Jaintia Hills,793150,382,792,375
+01-04-2025,Rajasthan,Jalor,343041,278,251,13
+01-04-2025,Meghalaya,North Garo Hills,794110,19,119,44
+01-04-2025,Madhya Pradesh,Chhatarpur,471313,185,75,10
+01-04-2025,Gujarat,Gandhinagar,382305,113,12,14
+01-04-2025,Assam,Cachar,788009,46,23,19
+01-04-2025,Gujarat,Banaskantha,385320,91,59,94
+01-04-2025,Gujarat,Banaskantha,385545,75,83,61
+01-04-2025,West Bengal,Nadia,741502,204,33,11
+01-04-2025,Assam,Cachar,788030,110,51,41
+01-04-2025,Assam,Tinsukia,786174,34,50,20
+01-04-2025,Bihar,Purnia,854304,517,276,21
+01-04-2025,Uttar Pradesh,Saharanpur,247341,363,97,10
+01-04-2025,Haryana,Gurgaon,122002,68,47,14
+01-04-2025,Assam,Charaideo,785690,26,18,60
+01-04-2025,Gujarat,Vadodara,390019,176,82,39
+01-04-2025,Rajasthan,Jaipur,302012,781,198,21
+01-04-2025,Bihar,Saran,841311,143,174,10
+01-04-2025,Madhya Pradesh,Morena,476221,122,63,13
+01-04-2025,Meghalaya,East Khasi Hills,793113,50,239,78
+01-04-2025,Maharashtra,Nagpur,440027,81,14,10
+01-04-2025,Telangana,Hyderabad,500013,92,10,12
+01-04-2025,Madhya Pradesh,Dhar,454010,42,15,22
+01-04-2025,Gujarat,Dahod,389151,289,237,18
+01-04-2025,Meghalaya,West Garo Hills,794002,134,344,199
+01-04-2025,Gujarat,Chhotaudepur,391170,20,12,15
+01-04-2025,Gujarat,Devbhumi Dwarka,361310,51,17,15
+01-04-2025,Bihar,East Champaran,845315,70,164,12
+01-04-2025,Bihar,East Champaran,845303,130,466,23
+01-04-2025,Bihar,Sitamarhi,843324,627,378,162
+01-04-2025,Rajasthan,Dholpur,328001,236,108,16
+01-04-2025,Gujarat,Tapi,394370,68,12,13
+01-04-2025,Uttar Pradesh,Baghpat,250611,311,224,18
+01-04-2025,Uttar Pradesh,Fatehpur,212635,166,136,10
+01-04-2025,Meghalaya,South West Khasi Hills,793119,44,111,38
+01-04-2025,Chhattisgarh,Bijapur,494447,83,66,66
+01-04-2025,Assam,Jorhat,785635,42,36,39
+01-04-2025,Uttar Pradesh,Bahraich,271903,87,146,24
+01-04-2025,Karnataka,Yadgir,585290,242,45,11
+01-04-2025,Uttar Pradesh,Lucknow,226021,165,114,11
+01-04-2025,Assam,Cachar,788118,14,16,19
+01-04-2025,Gujarat,Rajkot,360002,279,65,43
+01-04-2025,Jharkhand,Deoghar,815353,371,342,10
+01-04-2025,Gujarat,Panchmahals,389001,182,54,59
+01-04-2025,Maharashtra,Nandurbar,425412,237,35,10
+01-04-2025,Assam,Golaghat,785603,117,29,12
+01-04-2025,Meghalaya,West Garo Hills,794101,38,102,41
+01-04-2025,Rajasthan,Jodhpur,342303,164,37,10
+01-04-2025,Gujarat,Sabarkantha,383205,62,11,20
+01-04-2025,Assam,Sonitpur,784110,91,100,36
+01-04-2025,Assam,Nagaon,782136,50,36,14
+01-04-2025,Bihar,Gaya,823001,134,420,12
+01-04-2025,Uttar Pradesh,Etawah,206001,348,226,16
+01-04-2025,Karnataka,Bengaluru,560048,98,27,19
+01-04-2025,Uttar Pradesh,Kanpur Nagar,209402,69,61,20
+01-04-2025,West Bengal,Jalpaiguri,735132,72,17,10
+01-04-2025,Gujarat,Gandhinagar,382006,24,10,13
+01-04-2025,Madhya Pradesh,Jabalpur,482003,125,23,11
+01-04-2025,Uttar Pradesh,Shamli,247776,374,151,12
+01-04-2025,Assam,Sibsagar,785685,60,20,164
+01-04-2025,Delhi,West Delhi,110059,974,344,151
+01-04-2025,Madhya Pradesh,Barwani,451551,497,313,10
+01-04-2025,Uttar Pradesh,Lucknow,226016,161,185,15
+01-04-2025,Assam,Baksa,781360,84,192,73
+01-04-2025,Meghalaya,South Garo Hills,794107,38,46,26
+01-04-2025,Uttar Pradesh,Gorakhpur,273001,68,180,23
+01-04-2025,Gujarat,Botad,364710,291,21,20
+01-04-2025,Gujarat,Junagadh,362001,250,27,12
+01-04-2025,Assam,Bongaigaon,783381,12,11,13
+01-04-2025,Gujarat,Porbandar,360579,62,10,20
+01-04-2025,Assam,Sibsagar,785686,31,16,55
+01-04-2025,Uttar Pradesh,Balrampur,271208,123,201,10
+01-04-2025,Uttar Pradesh,Varanasi,221002,147,175,10
+01-04-2025,Madhya Pradesh,Morena,476115,155,87,25
+01-04-2025,Uttar Pradesh,Bara Banki,225301,172,72,10
+01-04-2025,Assam,Cachar,788002,69,31,19
+01-04-2025,Madhya Pradesh,Shivpuri,473880,64,48,13
+01-04-2025,Uttarakhand,Nainital,263139,488,66,48
+01-04-2025,Maharashtra,Beed,431122,379,52,19
+01-04-2025,Rajasthan,Jaipur,302001,128,39,13
+01-04-2025,Gujarat,Sabarkantha,383255,82,27,12
+01-04-2025,Uttar Pradesh,Shahjahanpur,242001,725,385,17
+01-04-2025,Karnataka,Bengaluru,560064,325,45,40
+01-04-2025,Assam,Jorhat,785630,38,22,16
+01-04-2025,Gujarat,Jamnagar,361006,125,24,16
+01-04-2025,Maharashtra,Chandrapur,442401,193,18,10
+01-04-2025,Chhattisgarh,Durg,491001,336,38,10
+01-04-2025,Karnataka,Yadgir,585202,294,44,10
+01-04-2025,Telangana,K.v. Rangareddy,500032,27,14,13
+01-04-2025,Madhya Pradesh,Morena,476001,479,160,25
+01-04-2025,Rajasthan,Sirohi,307026,279,148,47
+01-04-2025,West Bengal,Alipurduar,735204,18,36,16
+01-04-2025,Uttar Pradesh,Saharanpur,247001,1136,436,19
+01-04-2025,Assam,Baksa,781344,31,29,16
+01-04-2025,Uttar Pradesh,Kanpur Nagar,209401,43,70,23
+01-04-2025,Delhi,South West Delhi,110061,50,20,11
+01-04-2025,Gujarat,Surat,395005,119,20,22
+01-04-2025,Assam,Kamrup Metro,782403,45,12,14
+01-04-2025,Assam,Kamrup Metro,781012,20,34,26
+01-04-2025,Rajasthan,Dholpur,328021,290,98,13
+01-04-2025,Uttar Pradesh,Gonda,271311,61,45,12
+01-04-2025,Gujarat,Rajkot,360055,125,19,13
+01-04-2025,Assam,Nagaon,782124,331,125,12
+01-04-2025,Meghalaya,East Jaintia Hills,793160,234,255,86
+01-04-2025,Uttar Pradesh,Bareilly,243201,1264,288,11
+01-04-2025,Gujarat,Morbi,363650,89,10,12
+01-04-2025,Rajasthan,Bundi,323022,60,36,14
+01-04-2025,Maharashtra,Solapur,413304,278,38,21
+01-04-2025,Assam,Dhubri,783334,212,102,11
+01-04-2025,Assam,Dhubri,783337,56,46,10
+01-04-2025,Uttar Pradesh,Sitapur,261201,568,282,14
+01-04-2025,Gujarat,Gandhinagar,382016,48,17,10
+01-04-2025,Gujarat,Kachchh,370165,70,126,16
+01-04-2025,Bihar,Bhagalpur,812005,329,296,16
+01-04-2025,Delhi,South West Delhi,110045,314,95,22
+01-04-2025,Uttar Pradesh,Gorakhpur,273015,102,188,10
+01-04-2025,Jharkhand,Dumka,814119,34,32,23
+01-04-2025,Uttar Pradesh,Bulandshahr,203001,377,295,32
+01-04-2025,Bihar,Patna,800001,75,265,74
+01-04-2025,Meghalaya,West Jaintia Hills,793161,30,96,32
+01-04-2025,Uttar Pradesh,Kanpur Nagar,208021,174,169,11
+01-04-2025,Punjab,Ludhiana,141010,144,77,23
+01-04-2025,Bihar,Gaya,824233,63,317,13
+01-04-2025,Gujarat,Patan,384245,96,14,21
+01-04-2025,Madhya Pradesh,Chhatarpur,471405,178,103,10
+01-04-2025,Assam,Cachar,788116,78,35,33
+01-04-2025,Karnataka,Bengaluru,560087,131,28,34
+01-04-2025,Madhya Pradesh,Ashok Nagar,473446,76,53,13
+01-04-2025,Uttar Pradesh,Sultanpur,228001,262,195,23
+01-04-2025,Gujarat,Dahod,389140,57,45,29
+01-04-2025,Assam,Karbi Anglong,782480,126,338,134
+01-04-2025,Uttar Pradesh,Shahjahanpur,242221,469,248,30
+01-04-2025,Haryana,Faridabad,121004,1047,215,15
+01-04-2025,Rajasthan,Bikaner,334001,552,261,16
+01-04-2025,Delhi,South West Delhi,110037,126,65,11
+01-04-2025,Assam,Nalbari,781335,11,15,30
+01-04-2025,Nagaland,Phek,797108,83,112,11
+01-04-2025,Gujarat,Banaskantha,385575,83,50,67
+01-04-2025,Madhya Pradesh,Raisen,464886,119,44,10
+01-04-2025,Uttar Pradesh,Shrawasti,271831,207,307,11
+01-04-2025,Gujarat,Kheda,387620,109,29,63
+01-04-2025,Delhi,East Delhi,110092,676,221,15
+01-04-2025,Uttar Pradesh,Lucknow,226020,180,174,12
+01-04-2025,Karnataka,Bengaluru,560102,61,12,22
+01-04-2025,Bihar,Sitamarhi,843330,166,117,182
+01-04-2025,Madhya Pradesh,Katni,483770,236,24,10
+01-04-2025,Gujarat,Kachchh,370145,22,26,15
+01-04-2025,Madhya Pradesh,Jhabua,457661,247,212,29
+01-04-2025,Uttar Pradesh,Kheri,262907,70,58,10
+01-04-2025,Assam,Kamrup,781123,42,32,13
+01-04-2025,Gujarat,Banaskantha,385110,101,186,52
+01-04-2025,Tripura,Unakoti,799263,19,16,15
+01-04-2025,Delhi,North West Delhi,110034,295,101,13
+01-04-2025,Madhya Pradesh,Indore,452002,217,38,10
+01-04-2025,Bihar,Madhubani,847232,143,111,17
+01-04-2025,Madhya Pradesh,Chhatarpur,471625,105,39,10
+01-04-2025,Meghalaya,West Khasi Hills,793120,323,858,487
+01-04-2025,Assam,Kamrup Metro,781020,21,45,18
+01-04-2025,Uttar Pradesh,Sitapur,261203,456,194,20
+01-04-2025,Madhya Pradesh,Bhopal,462003,138,24,10
+01-04-2025,Bihar,Muzaffarpur,842002,219,228,18
+01-04-2025,Assam,Udalguri,784509,128,112,45
+01-04-2025,Gujarat,Surat,394230,66,25,25
+01-04-2025,Gujarat,Banaskantha,385001,204,64,75
+01-04-2025,Punjab,Ludhiana,142026,102,17,12
